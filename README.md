@@ -1,6 +1,6 @@
 # web api
-start with
+start with<br />
 `dotnet run`
 # react app
-`npm install
+`npm install<br />
 npm start`
