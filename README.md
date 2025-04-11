@@ -1,5 +1,5 @@
-# web api
+* web api
 start with dotnet run
-# react app
+* react app
 npm install
 npm start
