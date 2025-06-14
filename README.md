@@ -3,5 +3,5 @@ start with<br />
 `dotnet run`
 # react app
 `npm install` to install the required packages
-<br />
+<br /><br />
 `npm start`
