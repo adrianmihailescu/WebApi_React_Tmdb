@@ -1,0 +1,47 @@
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vspscc
+
+# .NET
+[Bb]in/
+[Oo]bj/
+project.lock.json
+project.assets.json
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+
+# Rider
+.idea/
+
+# Node.js
+node_modules/
+dist/
+build/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# General
+.vs/
+.vscode/
+*.swp
+*~
+npm-debug.log
+yarn-debug.log
+yarn-error.log

@@ -8,7 +8,7 @@ namespace MovieCommentsApi.Services
     public class MovieService : IMovieService
     {
         private readonly HttpClient _httpClient;
-        private readonly string _apiKey = "ac12656d3b684fe06863b561c366c79a";  // Use configuration in production
+        private readonly string _apiKey = ""; 
 
         public MovieService(IHttpClientFactory httpClientFactory)
         {
